@@ -1,0 +1,11 @@
+C:\Users\Richard\source\repos\ICreate2\ICreate2\bin\Debug\netcoreapp2.0\ICreate2.deps.json
+C:\Users\Richard\source\repos\ICreate2\ICreate2\bin\Debug\netcoreapp2.0\ICreate2.runtimeconfig.json
+C:\Users\Richard\source\repos\ICreate2\ICreate2\bin\Debug\netcoreapp2.0\ICreate2.runtimeconfig.dev.json
+C:\Users\Richard\source\repos\ICreate2\ICreate2\bin\Debug\netcoreapp2.0\ICreate2.dll
+C:\Users\Richard\source\repos\ICreate2\ICreate2\bin\Debug\netcoreapp2.0\ICreate2.pdb
+C:\Users\Richard\source\repos\ICreate2\ICreate2\obj\Debug\netcoreapp2.0\ICreate2.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\ICreate2\ICreate2\obj\Debug\netcoreapp2.0\ICreate2.AssemblyInfoInputs.cache
+C:\Users\Richard\source\repos\ICreate2\ICreate2\obj\Debug\netcoreapp2.0\ICreate2.AssemblyInfo.cs
+C:\Users\Richard\source\repos\ICreate2\ICreate2\obj\Debug\netcoreapp2.0\ICreate2.dll
+C:\Users\Richard\source\repos\ICreate2\ICreate2\obj\Debug\netcoreapp2.0\ICreate2.pdb
+C:\Users\Richard\source\repos\ICreate2\ICreate2\obj\Debug\netcoreapp2.0\ICreate2.csprojResolveAssemblyReference.cache

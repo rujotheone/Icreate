@@ -1,0 +1,99 @@
+.navbar{
+
+}
+
+.sidenav{
+	height: 100%;
+    width: 200px;
+    background-color: lightblue;
+    position: fixed!important;
+    z-index: 1;
+    overflow: auto;
+    margin-right:20px;
+    padding:40px 20px;
+    margin-top:-20px;
+
+}
+
+.sidenav ul
+{
+     list-style-type: none
+}
+
+
+#leftsidebar{
+	height: 100%;
+    width: 200px;
+    background-color: #fff;
+    position: fixed!important;
+    z-index: 1;
+    overflow: auto;
+}
+#innermain{
+	margin-left:220px;
+
+}
+
+#form{
+    border: 1px solid red;
+    border-radius: 3px; 
+    padding: 22px 100px 26px;
+    margin-left:20%;
+    margin-top:30px;
+    box-shadow: 2px 2px red;
+    text-align:center;
+}
+.formbox{
+    width:50%;
+    margin:auto;
+}
+
+#form h3{
+    margin:25px auto;
+    width:100%;
+    font-family:inherit;
+}
+
+ .btn
+{
+    padding:6px 12px;
+    max-width:252px;
+    width:100%;
+    font-size:14px;
+    background-color:red;
+    font-weight: 700;
+    height:34px;
+    color:white;
+}
+
+#create-form{
+    border-radius: 3px; 
+    padding: 22px 0px 26px;
+    margin-left:20%;
+}
+.create-formbox{
+    width:50%;
+    margin:auto;
+}
+
+#create-form h3{
+    margin:25px auto;
+    width:100%;
+    font-family:inherit;
+}
+
+
+#score-form{
+    border-radius: 3px; 
+    padding: 22px 0px 26px;
+}
+.score-formbox{
+    width:50%;
+    margin:auto;
+}
+
+#score-form h3{
+    margin:25px auto;
+    width:100%;
+    font-family:inherit;
+}

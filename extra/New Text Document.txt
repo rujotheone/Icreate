@@ -1,0 +1,5 @@
+*************main.js************
+import Bootstrap from 'bootstrap/dist/css/bootstrap.css';
+var $ = require('jquery'); global.jQuery = $; 
+require('bootstrap');
+import "popper.js"
